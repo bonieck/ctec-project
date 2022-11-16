@@ -1,1 +1,1 @@
-# ctec-project
+# Ctec Project
